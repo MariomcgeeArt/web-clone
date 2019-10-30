@@ -1,0 +1,22 @@
+.letters {
+    font-size: 14px;
+    font-family: Titillium Web;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 2em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+
+.block {
+    left: 0px;
+    top: 0px;
+    width: 261px;
+    height: 261px;
+    position: relative;
+}
+
+.dis:hover  {
+
+    background-color: black;
+  }
